@@ -1,1 +1,1 @@
-
+![AnimatedBanner](standard.gif)
