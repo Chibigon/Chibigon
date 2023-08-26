@@ -1,7 +1,4 @@
-![AnimatedBanner](standard.gif)
 
-
-
-Discord: chibigondotorg
+Discord: chibigonpunktde
 
 E-Mail: chibigon@tutanota.de
